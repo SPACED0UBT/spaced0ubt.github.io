@@ -1,0 +1,47 @@
+=====================================
+homepage edits (some .css/some .html)
+=====================================
+
+needs to be compatible for:
+	1: chromium
+	2: firefox
+
+to jam on home page
+
+	-more categories and links
+		-ongoing for this one
+
+✅	-background image
+	   ✅	-something with plants
+		-or a beach
+		-or a sexy beach butt
+
+	-5 day forecast for weather api
+		-may need own key?
+		-how to pull from json files
+
+tweaks for UI
+
+	-different color scheme
+✅		-match image
+		-blue and pink and yellow
+		
+✅	-blurred transparent on pressing spacebar
+	   	-color choice in hex picker
+		-transparency is appended 2 letter code
+			-00 is transparent
+
+	-edit scroll bar to have colors
+	✅	-transparent track
+		-white thumb
+		-involves webkit properties
+
+tweaks under the hood
+
+	-search provider
+	✅	-startpage.com
+
+	-look on github for inspiration on elements
+	
+	-organize/split .html file?
+
